@@ -1,0 +1,14 @@
+/home/sunny/Desktop/C#/method_parameter/bin/Debug/net8.0/method_parameter
+/home/sunny/Desktop/C#/method_parameter/bin/Debug/net8.0/method_parameter.deps.json
+/home/sunny/Desktop/C#/method_parameter/bin/Debug/net8.0/method_parameter.runtimeconfig.json
+/home/sunny/Desktop/C#/method_parameter/bin/Debug/net8.0/method_parameter.dll
+/home/sunny/Desktop/C#/method_parameter/bin/Debug/net8.0/method_parameter.pdb
+/home/sunny/Desktop/C#/method_parameter/obj/Debug/net8.0/method_parameter.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunny/Desktop/C#/method_parameter/obj/Debug/net8.0/method_parameter.AssemblyInfoInputs.cache
+/home/sunny/Desktop/C#/method_parameter/obj/Debug/net8.0/method_parameter.AssemblyInfo.cs
+/home/sunny/Desktop/C#/method_parameter/obj/Debug/net8.0/method_parameter.csproj.CoreCompileInputs.cache
+/home/sunny/Desktop/C#/method_parameter/obj/Debug/net8.0/method_parameter.dll
+/home/sunny/Desktop/C#/method_parameter/obj/Debug/net8.0/refint/method_parameter.dll
+/home/sunny/Desktop/C#/method_parameter/obj/Debug/net8.0/method_parameter.pdb
+/home/sunny/Desktop/C#/method_parameter/obj/Debug/net8.0/method_parameter.genruntimeconfig.cache
+/home/sunny/Desktop/C#/method_parameter/obj/Debug/net8.0/ref/method_parameter.dll

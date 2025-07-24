@@ -1,0 +1,14 @@
+/home/sunny/Desktop/C#/OOPS/bin/Debug/net8.0/OOPS
+/home/sunny/Desktop/C#/OOPS/bin/Debug/net8.0/OOPS.deps.json
+/home/sunny/Desktop/C#/OOPS/bin/Debug/net8.0/OOPS.runtimeconfig.json
+/home/sunny/Desktop/C#/OOPS/bin/Debug/net8.0/OOPS.dll
+/home/sunny/Desktop/C#/OOPS/bin/Debug/net8.0/OOPS.pdb
+/home/sunny/Desktop/C#/OOPS/obj/Debug/net8.0/OOPS.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunny/Desktop/C#/OOPS/obj/Debug/net8.0/OOPS.AssemblyInfoInputs.cache
+/home/sunny/Desktop/C#/OOPS/obj/Debug/net8.0/OOPS.AssemblyInfo.cs
+/home/sunny/Desktop/C#/OOPS/obj/Debug/net8.0/OOPS.csproj.CoreCompileInputs.cache
+/home/sunny/Desktop/C#/OOPS/obj/Debug/net8.0/OOPS.dll
+/home/sunny/Desktop/C#/OOPS/obj/Debug/net8.0/refint/OOPS.dll
+/home/sunny/Desktop/C#/OOPS/obj/Debug/net8.0/OOPS.pdb
+/home/sunny/Desktop/C#/OOPS/obj/Debug/net8.0/OOPS.genruntimeconfig.cache
+/home/sunny/Desktop/C#/OOPS/obj/Debug/net8.0/ref/OOPS.dll

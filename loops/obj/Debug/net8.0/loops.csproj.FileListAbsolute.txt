@@ -1,0 +1,14 @@
+/home/sunny/Desktop/C#/loops/obj/Debug/net8.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunny/Desktop/C#/loops/obj/Debug/net8.0/loops.AssemblyInfoInputs.cache
+/home/sunny/Desktop/C#/loops/obj/Debug/net8.0/loops.AssemblyInfo.cs
+/home/sunny/Desktop/C#/loops/obj/Debug/net8.0/loops.csproj.CoreCompileInputs.cache
+/home/sunny/Desktop/C#/loops/bin/Debug/net8.0/loops
+/home/sunny/Desktop/C#/loops/bin/Debug/net8.0/loops.deps.json
+/home/sunny/Desktop/C#/loops/bin/Debug/net8.0/loops.runtimeconfig.json
+/home/sunny/Desktop/C#/loops/bin/Debug/net8.0/loops.dll
+/home/sunny/Desktop/C#/loops/bin/Debug/net8.0/loops.pdb
+/home/sunny/Desktop/C#/loops/obj/Debug/net8.0/loops.dll
+/home/sunny/Desktop/C#/loops/obj/Debug/net8.0/refint/loops.dll
+/home/sunny/Desktop/C#/loops/obj/Debug/net8.0/loops.pdb
+/home/sunny/Desktop/C#/loops/obj/Debug/net8.0/loops.genruntimeconfig.cache
+/home/sunny/Desktop/C#/loops/obj/Debug/net8.0/ref/loops.dll

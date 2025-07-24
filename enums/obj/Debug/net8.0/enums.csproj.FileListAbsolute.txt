@@ -1,0 +1,14 @@
+/home/sunny/Desktop/C#/enums/obj/Debug/net8.0/enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunny/Desktop/C#/enums/obj/Debug/net8.0/enums.AssemblyInfoInputs.cache
+/home/sunny/Desktop/C#/enums/obj/Debug/net8.0/enums.AssemblyInfo.cs
+/home/sunny/Desktop/C#/enums/obj/Debug/net8.0/enums.csproj.CoreCompileInputs.cache
+/home/sunny/Desktop/C#/enums/bin/Debug/net8.0/enums
+/home/sunny/Desktop/C#/enums/bin/Debug/net8.0/enums.deps.json
+/home/sunny/Desktop/C#/enums/bin/Debug/net8.0/enums.runtimeconfig.json
+/home/sunny/Desktop/C#/enums/bin/Debug/net8.0/enums.dll
+/home/sunny/Desktop/C#/enums/bin/Debug/net8.0/enums.pdb
+/home/sunny/Desktop/C#/enums/obj/Debug/net8.0/enums.dll
+/home/sunny/Desktop/C#/enums/obj/Debug/net8.0/refint/enums.dll
+/home/sunny/Desktop/C#/enums/obj/Debug/net8.0/enums.pdb
+/home/sunny/Desktop/C#/enums/obj/Debug/net8.0/enums.genruntimeconfig.cache
+/home/sunny/Desktop/C#/enums/obj/Debug/net8.0/ref/enums.dll
